@@ -70,4 +70,4 @@ See the [LICENSE](LICENSE) file for licensing information.
 
 ---
 
-#**Automate the repetitive. Focus on the meaningful.**
+##**Automate the repetitive. Focus on the meaningful.**
