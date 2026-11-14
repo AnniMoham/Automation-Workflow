@@ -50,7 +50,24 @@ Specific instructions and requirements will be provided for each workflow.
 
 ## 🌱 More to Come
 
-New workflows and automation experiments will be added over time.
+## 🌱 Future Plans
+
+This repository will gradually expand with more automation solutions, including:
+
+- AI-powered content generation
+- News collection and automation
+- AI agent workflows
+- Data processing and reporting
+- Social media automation
+- Multi-modal AI automation
+
+## 🤝 Contributions
+
+Ideas, suggestions, and improvements are welcome!
+
+## 📄 License
+
+See the [LICENSE](LICENSE) file for licensing information.
 
 ---
 
