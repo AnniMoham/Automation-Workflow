@@ -1,5 +1,7 @@
 # ⚙️ Automation Workflow
 
+[🇬🇧 English](README.md) | [🇮🇷 فارسی](README.fa.md)
+
 A collection of automation workflows designed to simplify tasks, connect different services, and improve productivity using tools like **n8n**, APIs, and AI-powered technologies.
 
 ## 🚀 About
@@ -50,8 +52,6 @@ Specific instructions and requirements will be provided for each workflow.
 
 ## 🌱 More to Come
 
-## 🌱 Future Plans
-
 This repository will gradually expand with more automation solutions, including:
 
 - AI-powered content generation
@@ -71,4 +71,4 @@ See the [LICENSE](LICENSE) file for licensing information.
 
 ---
 
-**Automate the repetitive. Focus on the meaningful.**
+##**Automate the repetitive. Focus on the meaningful.**
